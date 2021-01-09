@@ -22,6 +22,9 @@ function App() {
   }
  
 
+
+
+
   const [openModal, setOpenModal] = useState(false)
   let [widthLoading, setWidthLoading] = useState(0)
   const [shouldCount, setShouldCount] = useState(false)
@@ -87,14 +90,14 @@ const submitInfo = e=>{
         setWidthLoading(widthLoading+numberByRandom)
         },50)
       if(widthLoading>97){
+        window.location.href = "https://www.education.gov.mg/";
         setOpenModal(true)
         clearInterval(interval)
+        
       }
      }
     return ()=>clearInterval(interval)
   }, [shouldCount,widthLoading])
-
-
 
 
 

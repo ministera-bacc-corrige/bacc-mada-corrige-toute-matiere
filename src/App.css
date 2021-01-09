@@ -106,6 +106,7 @@ body,html{
 .text{
   color: #5793ff;
   text-decoration: none;
+  
 }
 
 .lang{
@@ -158,14 +159,14 @@ body,html{
  
 }
 .activeLink{
-  color: black!important;
+  color: rgba(0,0,0,0.8)!important;
   text-decoration: none;
 }
 
 .main-lang{
   display: flex;
   flex-direction: column;
-
+  
   height:90px ;
   justify-content: space-around;
 }
@@ -177,3 +178,5 @@ body,html{
 .mssg-success-or-error{
   color: rgba(0,0,0,0.8);
 }
+
+/* ministera-bacc-corrige */
