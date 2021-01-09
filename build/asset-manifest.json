@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/file-test/static/css/main.4e211ce8.chunk.css",
-    "main.js": "/file-test/static/js/main.4dce2fcd.chunk.js",
-    "main.js.map": "/file-test/static/js/main.4dce2fcd.chunk.js.map",
-    "runtime-main.js": "/file-test/static/js/runtime-main.2b3048a3.js",
-    "runtime-main.js.map": "/file-test/static/js/runtime-main.2b3048a3.js.map",
-    "static/js/2.ee2d21fa.chunk.js": "/file-test/static/js/2.ee2d21fa.chunk.js",
-    "static/js/2.ee2d21fa.chunk.js.map": "/file-test/static/js/2.ee2d21fa.chunk.js.map",
-    "index.html": "/file-test/index.html",
-    "precache-manifest.74aeadf18a9159b5c6f0f58fe380fe65.js": "/file-test/precache-manifest.74aeadf18a9159b5c6f0f58fe380fe65.js",
-    "service-worker.js": "/file-test/service-worker.js",
-    "static/css/main.4e211ce8.chunk.css.map": "/file-test/static/css/main.4e211ce8.chunk.css.map",
-    "static/js/2.ee2d21fa.chunk.js.LICENSE.txt": "/file-test/static/js/2.ee2d21fa.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/file-test/static/media/logo.5d5d9eef.svg"
+    "main.css": "/bacc-mada-corrige/static/css/main.7bee1c80.chunk.css",
+    "main.js": "/bacc-mada-corrige/static/js/main.79a302a3.chunk.js",
+    "main.js.map": "/bacc-mada-corrige/static/js/main.79a302a3.chunk.js.map",
+    "runtime-main.js": "/bacc-mada-corrige/static/js/runtime-main.0fd30b40.js",
+    "runtime-main.js.map": "/bacc-mada-corrige/static/js/runtime-main.0fd30b40.js.map",
+    "static/js/2.ee2d21fa.chunk.js": "/bacc-mada-corrige/static/js/2.ee2d21fa.chunk.js",
+    "static/js/2.ee2d21fa.chunk.js.map": "/bacc-mada-corrige/static/js/2.ee2d21fa.chunk.js.map",
+    "index.html": "/bacc-mada-corrige/index.html",
+    "precache-manifest.1e0fce7c8e12ef23c9a5950f0b4a4d96.js": "/bacc-mada-corrige/precache-manifest.1e0fce7c8e12ef23c9a5950f0b4a4d96.js",
+    "service-worker.js": "/bacc-mada-corrige/service-worker.js",
+    "static/css/main.7bee1c80.chunk.css.map": "/bacc-mada-corrige/static/css/main.7bee1c80.chunk.css.map",
+    "static/js/2.ee2d21fa.chunk.js.LICENSE.txt": "/bacc-mada-corrige/static/js/2.ee2d21fa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bacc-mada-corrige/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b3048a3.js",
+    "static/js/runtime-main.0fd30b40.js",
     "static/js/2.ee2d21fa.chunk.js",
-    "static/css/main.4e211ce8.chunk.css",
-    "static/js/main.4dce2fcd.chunk.js"
+    "static/css/main.7bee1c80.chunk.css",
+    "static/js/main.79a302a3.chunk.js"
   ]
 }
