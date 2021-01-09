@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bacc-mada-corrige-toute-matiere/static/css/main.7bee1c80.chunk.css",
+    "main.js": "/bacc-mada-corrige-toute-matiere/static/js/main.ff4663ff.chunk.js",
+    "main.js.map": "/bacc-mada-corrige-toute-matiere/static/js/main.ff4663ff.chunk.js.map",
+    "runtime-main.js": "/bacc-mada-corrige-toute-matiere/static/js/runtime-main.a66140f6.js",
+    "runtime-main.js.map": "/bacc-mada-corrige-toute-matiere/static/js/runtime-main.a66140f6.js.map",
+    "static/js/2.ee2d21fa.chunk.js": "/bacc-mada-corrige-toute-matiere/static/js/2.ee2d21fa.chunk.js",
+    "static/js/2.ee2d21fa.chunk.js.map": "/bacc-mada-corrige-toute-matiere/static/js/2.ee2d21fa.chunk.js.map",
+    "index.html": "/bacc-mada-corrige-toute-matiere/index.html",
+    "precache-manifest.47d74fd90b34d0e2c778e3f04f038be5.js": "/bacc-mada-corrige-toute-matiere/precache-manifest.47d74fd90b34d0e2c778e3f04f038be5.js",
+    "service-worker.js": "/bacc-mada-corrige-toute-matiere/service-worker.js",
+    "static/css/main.7bee1c80.chunk.css.map": "/bacc-mada-corrige-toute-matiere/static/css/main.7bee1c80.chunk.css.map",
+    "static/js/2.ee2d21fa.chunk.js.LICENSE.txt": "/bacc-mada-corrige-toute-matiere/static/js/2.ee2d21fa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bacc-mada-corrige-toute-matiere/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a66140f6.js",
+    "static/js/2.ee2d21fa.chunk.js",
+    "static/css/main.7bee1c80.chunk.css",
+    "static/js/main.ff4663ff.chunk.js"
+  ]
+}
